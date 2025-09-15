@@ -1,2 +1,3 @@
 # HTML
 This repository includes HTML notes and two projects
+Author - Neeraj Pandey
